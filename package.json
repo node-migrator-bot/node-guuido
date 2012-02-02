@@ -1,0 +1,21 @@
+{
+  "author": "Joshua Holbrook <josh@nodejitsu.com> (http://jesusabdullah.github.com)",
+  "name": "guuido",
+  "description": "A little utility for generating unique string IDs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jesusabdullah/node-guuido",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jesusabdullah/node-guuido.git"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
